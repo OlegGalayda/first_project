@@ -1,0 +1,20 @@
+header {
+  display: block;
+  color: #fff;
+  background: #1b0ddd;
+  height: 30px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  color: #cc9d1d;
+  font-size: 20px;
+}
+
+body p.aaa {
+  font-size: 60px;
+}
